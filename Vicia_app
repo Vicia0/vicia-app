@@ -1,0 +1,82 @@
+<html>
+  <header> <br>
+    <h1> ISHEMEZWE Noella Polie Vicia </h1>
+    <link rel="stylesheet" href="index.css">
+  </header>
+  <nav> 
+      <img src="https://cdn.britannica.com/77/7177-004-9D72922D/Flag-Burundi.jpg" alt="Burundian flag"> Burundian | 
+      <img src="https://www.kindpng.com/picc/m/63-634081_png-file-svg-location-clipart-transparent-png.png" alt="location"> 20093 KG 142Street, Kigali, Rwanda | 
+      <img src="https://www.pngkit.com/png/detail/132-1329723_mobile-clip-art-at-mobile-icon-png-blue.png" alt="mobile"> +250785048182 <br> 
+      <img src="http://assets.stickpng.com/thumbs/58485771a6aca45b5a5c95b8.png" alt="email"> p.ishemezwe@alustudent.com | 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" alt="LinkedIn"> LinkedIn: Noella Polie Vica Ishemezwe  | 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkiWggMBDifvT954Mk3WaEfmnG9SnkwFZGmRGqIvulzbuAO-fGr7L-i7s__JffsrBR5Tc&usqp=CAU" alt="Hangouts"> Hangouts: p.ishemezwe@alustudent.com </nav> 
+  <main> 
+    <div class="body">
+      <article> 
+        <h3> SUMMARY </h3> <hr> 
+        Computer Science STudent. I am motivated and passionate by IT and sustainable development. I have been a scout member since I was 5. I have 19 years of experience helping people in different ways. Not only that, but I spent seven years of experience in the Red Cross to help people like to find shelter, food, and other basic needs for humans. I am open-minded and a great team player. I am a stern believer that Curiosity and Perseverance matter for any problem-solving. Passionate computer engineer with a passion for hardware development, societal evaluation of computer-related impacts, and developing computer applications to assist businesses and organizations in achieving their goals for African development. Currently, a first-year computer science student pursuing an honors science degree.
+
+      </article>
+      <article>
+        <h3> EDUCATIONAL BACKGROUND </h3> <hr>
+          <h4> African Leadership University – Kigali, Rwanda(Jan 2021 – Present) </h4>
+          <div>class="a">Leadership Core</div>
+          <div>class="a"> </div>
+            <div class="a"> Computer Science <br></div>
+            <div class="a"><i> Relevant Coursework: Database Management, Python & Java Programming, Computer Architecture, Web Development </i> </div>
+      </article>
+      <article>
+        
+        <h3> EXTRACURRICULAR ACTIVITIES </h3> <hr>
+         <h4> President of youth in the district</h4>
+        <div class="a">I was the president of youth in my district,i was the head of the commity of the youth, i was the One who have to take in charge of everything.
+          
+          <h4> Scout </h4>
+            <div class="a">In the different projects we did for the community such as building houses for the poor people and facilitating sanitation in the neighboring schools, I worked in in the Treasury.</div>
+          <h4> Sister in Success </h4>
+            <div class="a"> This was like a family where girls meet together and find solutions to their problems without waiting for the government. I like to create new jobs for them.</div> 
+          <h4> Red Cross  February 2014 - Present </h4>
+            <div class="a">In the Red Cross, we actively helped people to overcome their challenging situations. Gained knowledge on the various mental illnesses and practiced the most important first aids. From these experiences, I have learned how to take care of emergent panic attacks. </div> 
+          <h4> Public Relations Officer, Photography club, LNDS Sept 2015 – Jun 2017 </h4>
+            <div class="a"> A club focused on documenting school events while equipping interested individuals with photography lessons and skills.I worked hard to build a positive relationship between the club and students by initiating different activities, such as the Picture of the Month challenge, to encourage students to practice photography skills and also join the club. </div>  
+      </article>
+      <article>
+        <h3> SKILLS </h3> <hr>
+          <table> 
+            <tr><td>Data Analytics </td><tr> <tr><td>(Databases: MySQL) </td><tr>
+            <tr><td>Team Worker </td><tr> <tr><td>Market Planning</td><tr>
+            <tr><td>Team Worker </td><tr> <tr><td>Developer </td><tr>
+          </table>
+      </article>
+      <article>
+        <h3> INTERESTS </h3> <hr>
+        <table> 
+          <tr><td>Computer Networks </td><tr> 
+          <tr><td>Hardware development </td><tr>
+          <tr><td>Problem solver </td><tr>
+          <tr><td>Modeling </td><tr>
+          <tr><td>Basket Playing </td><tr>
+          <tr><td>Reading </td><tr>
+          <tr><td>Traveling </td><tr> 
+          <tr><td>Women Empowerment</td><tr>
+        </table>
+      </article>
+      <article>
+        <h3> LANGUAGES </h3> <hr>
+          <table>
+            <tr> <td> Languages </td> <td> Proficiency   </td> </tr>
+            <tr> <td> Kirundi </td> <td> Native   </td> </tr>
+            <tr> <td> English  </td> <td> Expert </td>  </tr>
+            <tr> <td> French </td> <td> Expert </td> </tr>
+            <tr> <td> Swahili </td> <td> Beginner </td> </tr>
+            <tr> <td> Chenese </td> <td> Beginner  </td> </tr>
+          </table>     
+      </article>
+    </div>
+  </main>
+  <footer>
+    <i> <p><br>Author: Polie Vicia Noella ISHEMEZWE</p>                                         
+      <p>date: 16th February 2022</p> </i>
+  </footer>
+</html>
+  
